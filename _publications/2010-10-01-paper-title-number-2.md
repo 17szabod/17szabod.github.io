@@ -3,7 +3,7 @@ title: "Bounded Degree Nonnegative Counting CSP"
 collection: publications
 category: manuscripts
 permalink: /publication/csp
-date: 2024
+date: 2024-01-01
 venue: 'ACM Transactions on Computation Theory'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'

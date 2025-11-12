@@ -3,7 +3,7 @@ title: "Multiway cuts with a choice of representatives."
 collection: publications
 category: manuscripts
 permalink: /publication/mwc
-date: 2026
+date: 2026-01-01
 venue: 'Discrete Applied Mathematics'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
