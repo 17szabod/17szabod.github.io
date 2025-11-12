@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/csp
 date: 2024
 venue: 'ACM Transactions on Computation Theory'
-# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-# paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'Cai, Jin-Yi, and Daniel P. Szabo. &quot;Bounded Degree Nonnegative Counting CSP.&quot; ACM Transactions on Computation Theory 16, no. 2 (2024): 1-18.'
 ---
 
