@@ -10,4 +10,4 @@ location: "Budapest, Hungary"
 
 Homeworks
 ======
-Operations Research I (Fall 2025) [assignments](https://17szabod.github.io/files/Opkut_II_gyakorlatok)
+Operations Research I (Fall 2025) [assignments](https://17szabod.github.io/files/Opkut_II_gyakorlatok.pdf)

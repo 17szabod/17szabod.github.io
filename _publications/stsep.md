@@ -1,5 +1,5 @@
 ---
-title: "$${s,t}$$-Separating Principal Partition Sequence of Submodular Functions"
+title: "$$\{ s,t\} $$}-Separating Principal Partition Sequence of Submodular Functions"
 collection: publications
 category: unpublished
 permalink: /publication/stsep
